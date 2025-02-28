@@ -11,10 +11,7 @@
 
 <!-- # TITULO O QUE É MARKDOWN?
 ## TITULO É UMA LINGUAGEM DE MARCAÇÃO 
-###### !!!!!!!!!
 
-<H1> Estou entendendo  </H1>
-<H6> Ensinando os amiguinhos</H6> -->
 <p id= descriçãoProjeto> </p>
 
 ## DESCRIÇÃO DO PROJETO
@@ -24,10 +21,26 @@ Estamos aprendendo html no git hub, Então isso será meu primeiro teste... Espe
 
 <p align="left">
 Segue abaixo mais informações  </p>
+=======
+###### ANIMAL!!!!!!!!!!!!!!!!!
+
+<H1> SOCORROOOO </H1>
+<H6> O  ENZO ESTÁ ME MATANDOOOOOOO</H6> -->
+<p id= descriçãoProjeto> </p>
+## DESCRIÇÃO DO PROJETO
+
+<P align="left"> 
+Estamos aprendendo html no git hub  Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub 
+</p>
+
+<p align="left">
+Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub          Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub </p>
+
 
 ## Tabela de conteúdinhos
 
 <ul>
+
     <li> Júlia Marques </li>
     <li><A href="#tabela-de-conteúdinhos"> Quem sou?</A></li>
     <li><a href="#StatusProjeto">Status</a></li>
@@ -39,6 +52,7 @@ Segue abaixo mais informações  </p>
 </p>
 
 <p id="StatusProjeto"></p>
+
 
 ## Status 2 do projeto ❤️
 <h4 align="left"> Em construção : 🚀  </h4>
@@ -99,4 +113,8 @@ C:.
 -[HTML](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 
 -[MARKDOWN](https://www.markdownguide.org/)
+
+=======
+## Status 2 do projeto 
+<h4 align="left"> Em construção :rocket : </h4>
 
