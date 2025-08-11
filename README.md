@@ -24,17 +24,16 @@ Segue abaixo mais informações  </p>
 =======
 ###### ANIMAL!!!!!!!!!!!!!!!!!
 
-<H1> SOCORROOOO </H1>
-<H6> O  ENZO ESTÁ ME MATANDOOOOOOO</H6> -->
+<H1> Teste </H1>
+<H6> Teste com linha 6</H6> -->
 <p id= descriçãoProjeto> </p>
 ## DESCRIÇÃO DO PROJETO
 
 <P align="left"> 
-Estamos aprendendo html no git hub  Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub 
+Estamos aprendendo html no git hub  
 </p>
 
-<p align="left">
-Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub          Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub Estamos aprendendo html no git hub </p>
+<p align="left"> :)  </p>
 
 
 ## Tabela de conteúdinhos
